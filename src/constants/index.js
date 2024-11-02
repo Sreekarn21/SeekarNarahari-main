@@ -47,6 +47,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "42-271-6/c,Nandhi hills,Wanaparthy ",
-  phoneNo: "+9059447621 ",
+  phoneNo: "+91 9059447621 ",
   email: "naninarahari04@gmail.com",
 };
